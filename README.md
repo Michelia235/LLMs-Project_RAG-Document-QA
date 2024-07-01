@@ -29,7 +29,7 @@ Ngrok is a tool that creates a tunnel between your localhost and the internet, s
   !ngrok config add-authtoken YOUR_AUTHTOKEN
   ```
 
-  ![Ngrok Setup](https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/449697964_337080206107141_2878106079208042090_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH2mpXjAN3vFotM0pLE6jmOotm5iLxqxSyi2bmIvGrFLJBkwD-nHc5MkoQFBFrbafE1GvgYFfi4kxN7aOMm5xWk&_nc_ohc=EiwMEdpMZLYQ7kNvgFHIfU7&_nc_ht=scontent.fsgn5-8.fna&oh=00_AYAYPlfn1rOPaoIKMmeICi7RMbpupFgc3Z50QvJ4qDmjmg&oe=6688E677)
+  ![Ngrok Setup](https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/449215990_337080236107138_4661462147290681086_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeHpPyAyMCCxdHlACrk8Jf5MpaqHxjRamxulqofGNFqbG1YcYiCuUD_bxMcvu19sb9fxoLVz4Cn37WMUeKYLFd62&_nc_ohc=Q9-74EHkyWYQ7kNvgFfNJNf&_nc_ht=scontent.fsgn5-10.fna&oh=00_AYBniE3J2WJUAZx3GBVgmPU5DJYQDlP8xsmrjfrWqDPYqg&oe=6688DD38)
 
 ### Step 5: Deploy Your Application
 
